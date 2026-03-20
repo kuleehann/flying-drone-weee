@@ -79,7 +79,7 @@ class DroneGridGUI:
         title_frame.pack(fill="x", padx=16, pady=(12, 0))
 
         tk.Label(
-            title_frame, text="DRONE MISSION CONTROL",
+            title_frame, text="VIEW OF CONTROL AGENT",
             bg=BG_COLOUR, fg=TEXT_COLOUR,
             font=("Segoe UI", 14, "bold")
         ).pack(side="left")
